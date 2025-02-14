@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+.pangolin {
+  font-family: 'Pangolin', serif;
+  font-style: normal;
+}
+
+.love-light {
+  font-family: 'Love Light', serif;
+  font-style: normal;
+}
+
+.great-vibes {
+  font-family: 'Great Vibes', serif;
+  font-style: normal;
+}
